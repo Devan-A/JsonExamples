@@ -1,0 +1,17 @@
+[
+    {
+        "movie": "Lord of the rings",
+        "year": "2001",
+        "reviews": ["10", "9", "10"]
+    },
+    {
+        "movie": "Star Wars",
+        "year": "1977",
+        "reviews": ["9", "10", "10"]
+    },
+    {
+        "movie": "Inception",
+        "year": "2010",
+        "reviews": ["8", "9", "9", "8"]
+    }
+]
