@@ -1,0 +1,22 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Supra",
+        "year": "2021"
+    },
+    {
+        "make": "Tesla",
+        "model": "Model X",
+        "year": "2020"
+    },
+    {
+        "make": "Ferarri",
+        "model": "458 Italia",
+        "year": "2009"
+    },
+    {
+        "make": "BMW",
+        "model": "E30 M3",
+        "year": "1986"
+    }
+]
